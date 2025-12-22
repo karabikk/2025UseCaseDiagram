@@ -1,0 +1,35 @@
+RequirementID,Requirement
+REQ-1,The system allows the user to create an account.
+REQ-2,The system allows the user to create an order.
+REQ-3,The system requires the user to add a name under an order.
+REQ-4,The system requires the user to add an email under an order.
+REQ-5,The system requires the user to add a phone number under an order.
+REQ-6,The system allows the user to see previous and current orders on the profile page.
+REQ-7,"The system allows the user to track the status of their orders (in process, ready for pickup)."
+REQ-8,The system allows the user to edit their orders 7 days before their specified pickup date.
+REQ-9,The system provides the user with a confirmation number.
+REQ-10,The system shall send the user an automated email when their order is ready for pickup.
+REQ-11,The system allows the user to delete their account.
+REQ-12,The system will display all orders for a specific day.
+REQ-13,The system shall allow the user to view the inventory.
+REQ-14,The system shall allow the user to add inventory items.
+REQ-15,The system shall allow the user to edit inventory items.
+REQ-16,The system shall allow the user to delete inventory items.
+REQ-17,The system shall allow the user to mark orders as complete.
+REQ-18,The system shall allow the user to delete orders.
+REQ-19,The system shall allow users to add to the pricing list.
+REQ-20,The system shall allow users to edit the pricing list.
+REQ-21,The system shall allow users to delete from the pricing list.
+REQ-22,The system shall send users an automated email for low stock items.
+REQ-23,The system shall allow users to add to the menu on the website.
+REQ-24,The system shall allow users to edit the menu on the website.
+REQ-25,The system shall allow users to delete from the menu on the website.
+REQ-26,The system shall allow the user to view the image gallery content on the home page.
+REQ-27,The system shall allow the user to view the menu pricing.
+REQ-28,The system shall allow the user to view a contact form for the bakery.
+REQ-29,The system requires the user to add a date to the contact form.
+REQ-30,The system requires the user to enter a time to the contact form.
+REQ-31,The system shall allow the user to enter a phone number to the contact form.
+REQ-32,The system shall allow the user to enter an email to the contact form.
+REQ-33,The system requires the user to enter a question to the contact form.
+REQ-34,The system shall allow the user to submit the contact form.
