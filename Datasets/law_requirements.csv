@@ -1,0 +1,31 @@
+RequirementID,Requirement
+REQ-1,The system shall allow the user to add a new case to the system.
+REQ-2,The system shall allow the user to give a case a title.
+REQ-3,The system shall allow the user to attach a deadline to the case.
+REQ-4,The system shall allow the user to give a deadline a title.
+REQ-5,The system shall allow the user to enter the date of a case deadline.
+REQ-6,The system shall calculate the date of a case deadline for the user.
+REQ-7,The system shall allow the user to enter how many days before a deadline they should begin receiving notifications.
+REQ-8,The system shall allow the user to enter how frequently they should receive notifications about an upcoming deadline.
+REQ-9,The system shall send the user automated notifications about upcoming deadlines.
+REQ-10,The system shall allow the user to view a list of all case deadlines.
+REQ-11,The system shall allow the user to delete a case deadline.
+REQ-12,The system shall allow the user to attach an appointment to a case.
+REQ-13,The system shall allow the user to give an appointment a name.
+REQ-14,The system shall allow the user to enter the location of an appointment.
+REQ-15,The system shall allow the user to enter the time of an appointment.
+REQ-16,The system shall allow the user to enter how many days before an appointment they should begin receiving notifications.
+REQ-17,The system shall allow the user to enter how frequently they should receive notifications about an upcoming appointment.
+REQ-18,The system shall send the user automated notifications about upcoming appointments.
+REQ-19,The system shall allow the user to view a list of all case appointments.
+REQ-20,The system shall allow the user to delete a case appointment.
+REQ-21,The system shall allow the user to attach client information to the case.
+REQ-22,The system shall allow the user to edit case details.
+REQ-23,The system shall apply edits to a client’s information in one case across all applicable cases.
+REQ-24,The system shall allow a user to mark a case for deletion.
+REQ-25,The system shall automatically delete a case marked for deletion after 30 days.
+REQ-26,The system shall allow a user to mark a case as resolved.
+REQ-27,"The system shall allow the user to filter between resolved, unresolved, and removed cases."
+REQ-28,The system shall store all resolved cases indefinitely.
+REQ-29,The system shall display a list of all cases as pulled from the database.
+REQ-30,The system shall display all details about a case when the user requests it.
